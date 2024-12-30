@@ -32,7 +32,7 @@
     "mkdirp": "3.0.0",
     "potdb": "2.5.5",
     "tslib": "2.5.0",
-    "uuid": "9.0.0"
+    "uuid": "9.0.1"
   },
   "devDependencies": {
     "@chakra-ui/react": "2.5.5",
